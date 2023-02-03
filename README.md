@@ -235,12 +235,3 @@ after merging corpus is: {'B ak er</w>': 2,
 'b ett er . </w>': 1}
 
 
-
-
-
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/98613975/216703980-5d3cbfb7-919e-41d9-a4fa-b4328fc5e291.png)
